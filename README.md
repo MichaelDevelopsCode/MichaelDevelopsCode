@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Michael Arvelo
+- 💻 I’m currently working full time as a Software Engineer
+- 🔭 I’m looking to collaborate on projects that will help me improve my skills or learn new ones
+- 📫 You can reach me via email at MichaelDevelopsCode@gmail.com I use a Inbox Zero approach for my email so I usually respond pretty quickly
